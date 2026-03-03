@@ -8,3 +8,5 @@ Dokumentasi code dari folder main
 <img width="402" height="157" alt="image" src="https://github.com/user-attachments/assets/3e916fee-b537-4160-9374-09933536af91" />
 Dokumentasi code dari folder resources
 
+<img width="877" height="104" alt="image" src="https://github.com/user-attachments/assets/81424300-1616-4273-b26e-5ec358a57d74" />
+Connect ke database
