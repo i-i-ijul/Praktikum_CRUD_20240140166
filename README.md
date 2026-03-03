@@ -10,3 +10,6 @@ Dokumentasi code dari folder resources
 
 <img width="877" height="104" alt="image" src="https://github.com/user-attachments/assets/81424300-1616-4273-b26e-5ec358a57d74" />
 Connect ke database
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a81a943e-d26c-45ae-a74e-a74efbbc9539" />
+Tampilan web setelah input data
