@@ -4,3 +4,7 @@ Hasil dari tabelnya
 
 <img width="500" height="719" alt="image" src="https://github.com/user-attachments/assets/c80b98ee-02da-4a55-948d-20237a28453d" />
 Dokumentasi code dari folder main
+
+<img width="402" height="157" alt="image" src="https://github.com/user-attachments/assets/3e916fee-b537-4160-9374-09933536af91" />
+Dokumentasi code dari folder resources
+
